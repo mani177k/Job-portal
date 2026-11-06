@@ -1,0 +1,6 @@
+{
+  "name": "HireHub - Full-Stack Job Portal",
+  "description": "A modern, full-stack job portal connecting job seekers, recruiters, and companies with end-to-end applicant tracking and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
